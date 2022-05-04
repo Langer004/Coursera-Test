@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 5px;
+  }
+  #h1 {
+    margin-bottom: 15px;
+    text-align: center; 
+    color: #A52A2A;
+  }
+  
+  div#container {
+    background-color: #81a3a3;
+  }
+  p {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin-bottom: 15px;
+  }
+  #p1 {
+    background-color: #A52A2A;
+  }
+  #p2 {
+    background-color: #DEB887;
+  }
+  #p3 {
+    background-color: #5F9EA0;
+  }
+  
